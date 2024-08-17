@@ -1,7 +1,7 @@
-pickleshare==0.7.5
+pickleshare
 pandas
 numpy
-scikit-learn==1.2.2
-imbalanced-learn==0.10.1
-Pillow==9.5.0
+scikit-learn
+imbalanced-learn
+Pillow
 distutils
